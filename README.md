@@ -8,7 +8,7 @@
 
 We have an equal equity split between everyone.
 
-## Reading order and requirements
+## Reading order
 
 All report content is in directory:
 * report/
@@ -19,8 +19,6 @@ The report takes the following structure:
 * 03-Breast_cancer_model_comparison.ipynb
 * 04-Breast_cancer_SVC_ANN.ipynb
 * 05-Diabetes_DataCleaning.ipynb
-
-Requirements for Python code are in `requirements.txt`.
 
 ## Evidence
 
