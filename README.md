@@ -11,7 +11,7 @@ We have an equal equity split between everyone.
 ## Reading order
 
 All report content is in directory:
-* report/
+* Report/
 
 The report takes the following structure:
 * 01-General_research.md
