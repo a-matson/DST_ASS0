@@ -14,7 +14,7 @@ All report content is in directory:
 * report/
 
 The report takes the following structure:
-* 01-General_research.ipynb
+* 01-General_research.md
 * 02-Breast_cancer_visualisation.ipynb
 * 03-Breast_cancer_model_comparison.ipynb
 * 04-Breast_cancer_SVC_ANN.ipynb
